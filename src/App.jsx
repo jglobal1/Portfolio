@@ -142,6 +142,15 @@ function App() {
     },
 
     {
+      title: 'Commerce Pro',
+      description: 'Professional Equipment for Your Business. Quality office equipment and supplies with special government pricing. Trusted by organizations nationwide.',
+      image: '/commerce_pro.jpg',
+      technologies: ['Next.js', 'E-Commerce', 'Government Pricing'],
+      liveUrl: 'https://ecommerce-blue-psi-71.vercel.app/',
+      githubUrl: ''
+    },
+
+    {
       title: 'Zion Store',
       description: 'A digital storefront combining style and functionality for fashion retail.',
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxDZffYK6pkP8cBPwTA30gChZ68JtftrGBew&s',
